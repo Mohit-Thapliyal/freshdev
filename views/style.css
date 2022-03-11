@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+.help .card{
+    margin: auto;
+    margin-top: 20vh;
+    width: 40vw;
+    height: 50vh;
+    background-color: rgb(194, 191, 191);
+}
+.help .options{
+    margin-top: 4rem;
+}
+.help .accept, .reject{
+    font-weight: 600;
+    font-size: 1.7rem;
+    height: 5rem;
+    width: 13rem;
+    margin: auto;
+}
